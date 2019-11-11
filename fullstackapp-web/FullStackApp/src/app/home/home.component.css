@@ -1,0 +1,13 @@
+.main_container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 90vh;
+  position: relative;
+}
+
+.title_text {
+  font-size: 1.15rem;
+  margin-bottom: 0.5rem;
+}

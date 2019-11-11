@@ -19,3 +19,6 @@
 ==> npm install @tabler/angular-styles
 
 ==> npm install @tabler/angular-core
+
+
+==> ng g c home
